@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and robotics.
 - 🌱 I’m currently learning c++ and python.
 - 🔥 My favourite artist is Travis Scott.
-- 📫 How to reach me [busyendruvz@gmail.com](busyendruvz@gmail.com)
+- 📫 How to reach me busyendruvz@gmail.com
 
 <!---
 Endruvz/Endruvz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
